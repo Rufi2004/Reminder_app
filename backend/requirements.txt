@@ -1,0 +1,5 @@
+Django>=5.0
+firebase-admin
+edge-tts
+django-cors-headers
+APScheduler

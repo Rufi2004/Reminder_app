@@ -1,0 +1,12 @@
+{
+  // VS Code debug configuration for Flutter on emulator/device
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Flutter (Android Emulator)",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/main.dart"
+    }
+  ]
+}
